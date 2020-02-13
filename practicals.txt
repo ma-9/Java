@@ -1,0 +1,35 @@
+Practical List
+1) Write a Java program to create Class and Object
+2) Write a Java program to print 1 to 10 using for loop
+3) Write a Java program to print Odd numbers upto 100 using while loop
+4) Write a Java program to print Even numbers upto 100 using do while loop
+5) Write a Java program to print Numbers divisible by 7 up to 100
+6) Write a Java program to demonstrate Default Constructor
+7) Write a Java program to demonstrate Parameterised Constructor
+8) Write a Java program to demonstrate Single Inheritance
+9) Write a Java program to demonstrate Multievel Inheritance
+10) Class Number has a variable x which is an integer number. Class Square is derived
+from class number which prints square of the given number and class Cube is derived
+from class Square which prints the cube of the integer number. Write a progrma to
+demonstrate the mechanism.
+11) Write a program to demostrate “final” keyword
+12) Write a program to demostrate “final” Class
+13 & 14) Write a program to demostrate “abstract” keyword for function and class
+15 & 16) Write a program to demostrate concept of interface and implement keyword in java
+17)Create a Package “pkg” with a class “Myclass” with appropriate functions and use it in
+Java Program
+18) Package “Calculate” has classes “sum” and “sub” with performs addition and
+subtraction of 2 integer variables using required functions respectively. Write a Java
+program to demonstrate this mechanism.
+19) Write a program to demonstrate a Thread class.
+20) Write a program to demonstrate a “sleep” method of Thread class
+21) Write a program to demonstrate a Multiple threads in a same java program.
+22) Write a program to demonstrate a Thread priorities.
+23) Write a program to create a simple applet using Applet tag of java
+24)Create an Applet and use drawRect() function to draw a Rectangle
+25)Create an Applet and use drawLine() function to draw a Line
+26)Create an Applet and use drawOval() function to draw a Oval
+27)Create an Applet and show Indian Flag on it
+28)Create an Applet and use MouseListener in it
+29)Create an Applet and use ActionListener in it
+30)Create an Applet and use AWT components in it.
